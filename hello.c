@@ -8,6 +8,7 @@
 
      printf("Hello, l'm frederic minko!\n");
      printf("Major is electrical engineering!\n");
+     printf("Minor is Congolese")
 
      return 0;
  }
